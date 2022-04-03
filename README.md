@@ -9,7 +9,7 @@ To complete our bikesharing analysis, we pulled a `.csv` file from the Citi Bike
 ## Results
 The completed Tableau Story includes data regarding what times and days of the week the bikes are most used. It also includes some gender and age-specific data to show how bike usage differs between these different groups of people. The last few story points include data regarding when bikes are checked out, as well as where they're checked out from and where they're returned to. Please feel free to click the link below and view the Tableau story on the Tableau Public website. Also, please continue reading for more in-depth descriptions of the visualizations included in the story.
 
-![Link to Dashboard](https://public.tableau.com/app/profile/kevin.flores5254/viz/BikesharingAnalysisChallenge/BikesharingStory?publish=yes)
+[Link to Dashboard](https://public.tableau.com/app/profile/kevin.flores5254/viz/BikesharingAnalysisChallenge/BikesharingStory?publish=yes)
 
 
 #### Trips by Weekday & Customer Type
